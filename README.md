@@ -1,4 +1,4 @@
-# 🍉 sn-chigua — 吃瓜 Skill
+# 🍉 chiguaskill — 吃瓜 Skill
 
 🍉 公司 token 闲着也是闲着，不如让它帮你整理全网最新最全的瓜。覆盖微博、抖音、小红书、B站等主流社交平台。
 
@@ -14,8 +14,8 @@
 ### 方式一：通过 Claude Code 插件安装
 
 ```
-/plugin marketplace add jaya-l/sn-chigua
-/plugin install sn-chigua@sn-chigua
+/plugin marketplace add jaya-l/chiguaskill
+/plugin install chiguaskill@chiguaskill
 ```
 
 ### 方式二：手动安装
@@ -23,7 +23,7 @@
 将本仓库克隆到 Claude Code 的 skills 目录：
 
 ```bash
-git clone https://github.com/jaya-l/sn-chigua.git ~/.claude/skills/sn-chigua
+git clone https://github.com/jaya-l/chiguaskill.git ~/.claude/skills/chiguaskill
 ```
 
 ## 依赖
