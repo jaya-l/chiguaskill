@@ -13,7 +13,7 @@
 
   /plugin marketplace add jaya-l/chiguaskill
   /plugin install sn-chigua@sn-chigua
-  /plugin install sn-chigua@sn-chigua
+
 
   ## 依赖
 
