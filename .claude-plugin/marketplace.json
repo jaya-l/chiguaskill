@@ -1,0 +1,32 @@
+ {
+    "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+   "name": "sn-chigua",
+    "owner": {
+      "name": "jaya-l",
+      "url": "https://github.com/jaya-l"
+    },
+    "metadata": {
+      "description": "娱乐八卦聚合与事件脉络整理",
+      "version": "1.0.0"
+    },
+    "plugins": [
+      {
+        "name": "sn-chigua",
+        "source": {
+          "source": "git-subdir",
+          "url": "https://github.com/jaya-l/chiguaskill.git",
+          "path": "."
+        },
+        "description": "吃瓜汇总与事件脉络整理，支持瓜田日报和单瓜深扒两种模式",
+        "author": {
+          "name": "jaya-l",
+          "url": "https://github.com/jaya-l"
+        },
+        "homepage": "https://github.com/jaya-l/chiguaskill",
+        "repository": "https://github.com/jaya-l/chiguaskill",
+        "license": "MIT",
+        "category": "entertainment",
+        "keywords": ["gossip","entertainment","八卦","吃瓜","娱乐圈","热搜"]
+      }
+    ]
+  }
