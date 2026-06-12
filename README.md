@@ -12,6 +12,7 @@
   ## 安装
 
   /plugin marketplace add jaya-l/chiguaskill
+  
   /plugin install sn-chigua@sn-chigua
 
 
